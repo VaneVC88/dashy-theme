@@ -1,0 +1,11 @@
+/*Inserta tu Codigo Responsive*/
+@media screen and (max-width: 600px) {
+	.form-login-heading{
+		margin-left: 50px; 
+		width: 80%;
+	}
+	.login-wrap{
+		margin-left: 50px;
+		width: 80%;
+	}
+}
